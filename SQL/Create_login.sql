@@ -1,0 +1,2 @@
+CREATE LOGIN Gowtham WITH PASSWORD = 'Gowtham12345';
+CREATE USER Gowtham FOR LOGIN Gowtham;
